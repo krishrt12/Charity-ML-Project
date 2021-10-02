@@ -1,4 +1,3 @@
-# Charity-ML-Project
 
 This is one of my latest porjects done on Jan 2021
 
